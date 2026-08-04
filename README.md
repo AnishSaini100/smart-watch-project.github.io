@@ -1,1 +1,1 @@
-# smart-watch-project.github.io
+#Smart Watch Electronics Project
